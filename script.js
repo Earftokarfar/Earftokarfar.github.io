@@ -3,3 +3,4 @@ document.addEventListener('DOMContentLoaded', function () {
 console.log('Kafaes portfolio is ready to go! ' );
 
 });
+<script src="script.js"></script>
